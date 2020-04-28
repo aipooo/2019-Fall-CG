@@ -50,5 +50,6 @@ SYSU TJ
   * 具体内容参见实验报告
 <br/>
 
-**All assignments are based on OpenGL** 
+**All assignments are based on OpenGL**
+
 **If you have any question, you can e-mail to xuewh5@mail2.sysu.edu.cn**
