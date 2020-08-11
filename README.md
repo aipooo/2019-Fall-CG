@@ -1,5 +1,5 @@
 # 2019-Fall-CG
-SYSU TJ
+SYSU TJ 计算机图形学
 
 **Assignment1：复现图中场景**
 * 要求：不使用GL_LINES或GL_LINE_STRIP，glTranslate, glRotate, glMultMatrix
